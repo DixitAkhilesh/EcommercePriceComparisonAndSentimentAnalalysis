@@ -1,0 +1,1535 @@
+{
+    "request_info": {
+        "success": true,
+        "credits_used": 17,
+        "credits_remaining": 83,
+        "credits_used_this_request": 1
+    },
+    "request_parameters": {
+        "type": "search",
+        "amazon_domain": "amazon.in",
+        "search_term": "one plus 10r",
+        "currency": "inr"
+    },
+    "request_metadata": {
+        "created_at": "2023-04-14T03:31:11.410Z",
+        "processed_at": "2023-04-14T03:31:14.952Z",
+        "total_time_taken": 3.54,
+        "amazon_url": "https://www.amazon.in/s/?k=one+plus+10r&ref=nb_sb_noss_2"
+    },
+    "search_results": [
+        {
+            "position": 1,
+            "title": "OnePlus 10R 5G (Forest Green, 8GB RAM, 128GB Storage, 80W SuperVOOC)",
+            "asin": "B09WRMNJ9G",
+            "link": "https://www.amazon.in/OnePlus-Forest-Green-Storage-SuperVOOC/dp/B09WRMNJ9G/ref=sr_1_1?keywords=one+plus+10r&qid=1681443073&sr=8-1",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/716uVx3Wr5L._AC_UY218_.jpg",
+            "deal": {
+                "link": "https://www.amazon.in/greatindianfestival",
+                "badge_text": "Blockbuster Value Day"
+            },
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 13221,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 34999,
+                    "currency": "INR",
+                    "raw": "₹34,999",
+                    "name": "Blockbuster Value Day",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 38999,
+                    "currency": "INR",
+                    "raw": "₹38,999",
+                    "name": "Blockbuster Value Day",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 34999,
+                "currency": "INR",
+                "raw": "₹34,999",
+                "name": "Blockbuster Value Day",
+                "is_primary": true
+            },
+            "delivery": {
+                "tagline": "Get it by Today, 14 April"
+            }
+        },
+        {
+            "position": 2,
+            "title": "OnePlus 10R 5G (Sierra Black, 8GB RAM, 128GB Storage, 80W SuperVOOC)",
+            "asin": "B09WRP2WXG",
+            "link": "https://www.amazon.in/OnePlus-Sierra-Black-Storage-SuperVOOC/dp/B09WRP2WXG/ref=sr_1_2?keywords=one+plus+10r&qid=1681443073&sr=8-2",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71BoiXkrEmL._AC_UY218_.jpg",
+            "deal": {
+                "link": "https://www.amazon.in/greatindianfestival",
+                "badge_text": "Blockbuster Value Day"
+            },
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 13221,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 34999,
+                    "currency": "INR",
+                    "raw": "₹34,999",
+                    "name": "Blockbuster Value Day",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 38999,
+                    "currency": "INR",
+                    "raw": "₹38,999",
+                    "name": "Blockbuster Value Day",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 34999,
+                "currency": "INR",
+                "raw": "₹34,999",
+                "name": "Blockbuster Value Day",
+                "is_primary": true
+            },
+            "delivery": {
+                "tagline": "Get it by Today, 14 April"
+            }
+        },
+        {
+            "position": 3,
+            "title": "OnePlus 10R 5G (Forest Green, 12GB RAM, 256GB Storage, 80W SuperVOOC)",
+            "asin": "B09WRKHWP7",
+            "link": "https://www.amazon.in/OnePlus-Forest-Green-Storage-SuperVOOC/dp/B09WRKHWP7/ref=sr_1_3?keywords=one+plus+10r&qid=1681443073&sr=8-3",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/716uVx3Wr5L._AC_UY218_.jpg",
+            "deal": {
+                "link": "https://www.amazon.in/greatindianfestival",
+                "badge_text": "Blockbuster Value Day"
+            },
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 13221,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 38999,
+                    "currency": "INR",
+                    "raw": "₹38,999",
+                    "name": "Blockbuster Value Day",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 42999,
+                    "currency": "INR",
+                    "raw": "₹42,999",
+                    "name": "Blockbuster Value Day",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 38999,
+                "currency": "INR",
+                "raw": "₹38,999",
+                "name": "Blockbuster Value Day",
+                "is_primary": true
+            },
+            "delivery": {
+                "tagline": "Get it by Today, 14 April"
+            }
+        },
+        {
+            "position": 4,
+            "title": "OnePlus 10R 5G (Sierra Black, 12GB RAM, 256GB Storage, 80W SuperVOOC)",
+            "asin": "B09WRNPKRR",
+            "link": "https://www.amazon.in/OnePlus-Sierra-Black-Storage-SuperVOOC/dp/B09WRNPKRR/ref=sr_1_4?keywords=one+plus+10r&qid=1681443073&sr=8-4",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71BoiXkrEmL._AC_UY218_.jpg",
+            "deal": {
+                "link": "https://www.amazon.in/greatindianfestival",
+                "badge_text": "Blockbuster Value Day"
+            },
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 13221,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 38999,
+                    "currency": "INR",
+                    "raw": "₹38,999",
+                    "name": "Blockbuster Value Day",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 42999,
+                    "currency": "INR",
+                    "raw": "₹42,999",
+                    "name": "Blockbuster Value Day",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 38999,
+                "currency": "INR",
+                "raw": "₹38,999",
+                "name": "Blockbuster Value Day",
+                "is_primary": true
+            },
+            "delivery": {
+                "tagline": "Get it by Tomorrow, 15 April"
+            }
+        },
+        {
+            "position": 5,
+            "title": "(Renewed) OnePlus 10R 5G Sierra Black, 12GB RAM, 256GB Storage",
+            "asin": "B0BS9MMX1W",
+            "link": "https://www.amazon.in/Renewed-OnePlus-10R-Sierra-Storage/dp/B0BS9MMX1W/ref=sr_1_5?keywords=one+plus+10r&qid=1681443073&sr=8-5",
+            "availability": {
+                "raw": "Only 1 left in stock."
+            },
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71BoiXkrEmL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 5,
+            "ratings_total": 1,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 29899,
+                    "currency": "INR",
+                    "raw": "₹29,899",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 38999,
+                    "currency": "INR",
+                    "raw": "₹38,999",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 29899,
+                "currency": "INR",
+                "raw": "₹29,899",
+                "name": "Primary",
+                "is_primary": true
+            },
+            "delivery": {
+                "tagline": "Get it by Tomorrow, 15 April"
+            }
+        },
+        {
+            "position": 6,
+            "title": "(Renewed) OnePlus 10R 5G Sierra Black 8GB RAM 128GB Storage",
+            "asin": "B0BS9KFH9P",
+            "link": "https://www.amazon.in/Renewed-OnePlus-10R-Sierra-Storage/dp/B0BS9KFH9P/ref=sr_1_6?keywords=one+plus+10r&qid=1681443073&sr=8-6",
+            "availability": {
+                "raw": "Only 2 left in stock."
+            },
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71BoiXkrEmL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 3.5,
+            "ratings_total": 2,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 28995,
+                    "currency": "INR",
+                    "raw": "₹28,995",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 39999,
+                    "currency": "INR",
+                    "raw": "₹39,999",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 28995,
+                "currency": "INR",
+                "raw": "₹28,995",
+                "name": "Primary",
+                "is_primary": true
+            },
+            "delivery": {
+                "tagline": "Get it by Tomorrow, 15 April"
+            }
+        },
+        {
+            "position": 7,
+            "title": "(Renewed) OnePlus 10R 5G Forest Green, 8GB RAM, 128GB Storage",
+            "asin": "B0BS9MG3DW",
+            "link": "https://www.amazon.in/Renewed-OnePlus-10R-Forest-Storage/dp/B0BS9MG3DW/ref=sr_1_7?keywords=one+plus+10r&qid=1681443073&sr=8-7",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/716uVx3Wr5L._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 3.2,
+            "ratings_total": 5,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 33795,
+                    "currency": "INR",
+                    "raw": "₹33,795",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 38999,
+                    "currency": "INR",
+                    "raw": "₹38,999",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 33795,
+                "currency": "INR",
+                "raw": "₹33,795",
+                "name": "Primary",
+                "is_primary": true
+            },
+            "delivery": {
+                "tagline": "Get it by Tomorrow, 15 April"
+            }
+        },
+        {
+            "position": 8,
+            "title": "(Renewed) OnePlus 10R 5G Forest Green, 12GB RAM, 256GB Storage",
+            "asin": "B0BS9LCDLM",
+            "link": "https://www.amazon.in/Renewed-OnePlus-10R-Forest-Storage/dp/B0BS9LCDLM/ref=sr_1_8?keywords=one+plus+10r&qid=1681443073&sr=8-8",
+            "availability": {
+                "raw": "Only 1 left in stock."
+            },
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/716uVx3Wr5L._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4,
+            "ratings_total": 1,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 29999,
+                    "currency": "INR",
+                    "raw": "₹29,999",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 49999,
+                    "currency": "INR",
+                    "raw": "₹49,999",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 29999,
+                "currency": "INR",
+                "raw": "₹29,999",
+                "name": "Primary",
+                "is_primary": true
+            },
+            "delivery": {
+                "tagline": "Get it by Tomorrow, 15 April"
+            }
+        },
+        {
+            "position": 9,
+            "title": "OnePlus 10R 5G Prime Edition (Prime Blue, 8GB RAM, 128GB Storage, 80W SuperVOOC)",
+            "asin": "B0BCP3X81V",
+            "link": "https://www.amazon.in/OnePlus-Prime-128GB-Storage-SuperVOOC/dp/B0BCP3X81V/ref=sr_1_9?keywords=one+plus+10r&qid=1681443073&sr=8-9",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71XM12oE-3L._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 13221,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 34999,
+                    "currency": "INR",
+                    "raw": "₹34,999",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 38999,
+                    "currency": "INR",
+                    "raw": "₹38,999",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 34999,
+                "currency": "INR",
+                "raw": "₹34,999",
+                "name": "Primary",
+                "is_primary": true
+            },
+            "delivery": {
+                "tagline": "Get it by Today, 14 April"
+            }
+        },
+        {
+            "position": 10,
+            "title": "OnePlus Nord 2T 5G (Gray Shadow, 8GB RAM, 128GB Storage)",
+            "asin": "B0B3CQBRB4",
+            "link": "https://www.amazon.in/OnePlus-Nord-Shadow-128GB-Storage/dp/B0B3CQBRB4/ref=sr_1_10?keywords=one+plus+10r&qid=1681443073&sr=8-10",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/617MPEZB5mL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 23240,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 28999,
+                    "currency": "INR",
+                    "raw": "₹28,999",
+                    "asin": "B0B3CQBRB4",
+                    "link": "https://www.amazon.in/OnePlus-Nord-Shadow-128GB-Storage/dp/B0B3CQBRB4/ref=sr_1_10?keywords=one+plus+10r&qid=1681443073&sr=8-10"
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 28999,
+                "currency": "INR",
+                "raw": "₹28,999",
+                "asin": "B0B3CQBRB4",
+                "link": "https://www.amazon.in/OnePlus-Nord-Shadow-128GB-Storage/dp/B0B3CQBRB4/ref=sr_1_10?keywords=one+plus+10r&qid=1681443073&sr=8-10"
+            },
+            "delivery": {
+                "tagline": "Get it by Today, 14 April"
+            }
+        },
+        {
+            "position": 11,
+            "title": "Itel A60 (6.6 inch HD+ IPS Waterdrop Display | 5000mAh Battery | Fingerprint Sensor) - Vert Menthe",
+            "asin": "B0BWYHBS2W",
+            "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDUyNDMyMjE2OTYwNjgyOjE2ODE0NDMwNzM6c3BfbXRmOjIwMTQ1MzkxMzU0OTk4OjowOjo&url=%2FItel-Waterdrop-Display-5000mAh-Fingerprint%2Fdp%2FB0BWYHBS2W%2Fref%3Dsr_1_11_sspa%3Fkeywords%3Done%2Bplus%2B10r%26qid%3D1681443073%26sr%3D8-11-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71-MGaGSicL._AC_UY218_.jpg",
+            "deal": {
+                "link": "https://www.amazon.in/greatindianfestival",
+                "badge_text": "Blockbuster Value Day"
+            },
+            "is_prime": true,
+            "rating": 5,
+            "ratings_total": 3,
+            "sponsored": true,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 5999,
+                    "currency": "INR",
+                    "raw": "₹5,999",
+                    "name": "Blockbuster Value Day",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 7199,
+                    "currency": "INR",
+                    "raw": "₹7,199",
+                    "name": "Blockbuster Value Day",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 5999,
+                "currency": "INR",
+                "raw": "₹5,999",
+                "name": "Blockbuster Value Day",
+                "is_primary": true
+            },
+            "delivery": {
+                "tagline": "Get it by Tomorrow, 15 April"
+            }
+        },
+        {
+            "position": 12,
+            "title": "OnePlus Nord 2T 5G (Jade Fog, 8GB RAM, 128GB Storage)",
+            "asin": "B0B3CPQ5PF",
+            "link": "https://www.amazon.in/OnePlus-Nord-Jade-128GB-Storage/dp/B0B3CPQ5PF/ref=sr_1_12?keywords=one+plus+10r&qid=1681443073&sr=8-12",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61ahn9N38zL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 23240,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 28999,
+                    "currency": "INR",
+                    "raw": "₹28,999",
+                    "asin": "B0B3CPQ5PF",
+                    "link": "https://www.amazon.in/OnePlus-Nord-Jade-128GB-Storage/dp/B0B3CPQ5PF/ref=sr_1_12?keywords=one+plus+10r&qid=1681443073&sr=8-12"
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 28999,
+                "currency": "INR",
+                "raw": "₹28,999",
+                "asin": "B0B3CPQ5PF",
+                "link": "https://www.amazon.in/OnePlus-Nord-Jade-128GB-Storage/dp/B0B3CPQ5PF/ref=sr_1_12?keywords=one+plus+10r&qid=1681443073&sr=8-12"
+            },
+            "delivery": {
+                "tagline": "Get it by Today, 14 April"
+            }
+        },
+        {
+            "position": 13,
+            "title": "OnePlus 11R 5G (Galactic Silver, 8GB RAM, 128GB Storage)",
+            "asin": "B0BSNQ2KXF",
+            "link": "https://www.amazon.in/OnePlus-Galactic-Silver-128GB-Storage/dp/B0BSNQ2KXF/ref=sr_1_13?keywords=one+plus+10r&qid=1681443073&sr=8-13",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/613SAOPmLeL._AC_UY218_.jpg",
+            "deal": {
+                "link": "https://www.amazon.in/greatindianfestival",
+                "badge_text": "Blockbuster Value Day"
+            },
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 1786,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 39998,
+                    "currency": "INR",
+                    "raw": "₹39,998",
+                    "name": "Blockbuster Value Day",
+                    "asin": "B0BSNQ2KXF",
+                    "link": "https://www.amazon.in/OnePlus-Galactic-Silver-128GB-Storage/dp/B0BSNQ2KXF/ref=sr_1_13?keywords=one+plus+10r&qid=1681443073&sr=8-13"
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 39998,
+                "currency": "INR",
+                "raw": "₹39,998",
+                "name": "Blockbuster Value Day",
+                "asin": "B0BSNQ2KXF",
+                "link": "https://www.amazon.in/OnePlus-Galactic-Silver-128GB-Storage/dp/B0BSNQ2KXF/ref=sr_1_13?keywords=one+plus+10r&qid=1681443073&sr=8-13"
+            },
+            "delivery": {
+                "tagline": "Get it by Tomorrow, 15 April"
+            }
+        },
+        {
+            "position": 14,
+            "title": "OnePlus 11R 5G (Galactic Silver, 16GB RAM, 256GB Storage)",
+            "asin": "B0BSNNYHY5",
+            "link": "https://www.amazon.in/OnePlus-Galactic-Silver-256GB-Storage/dp/B0BSNNYHY5/ref=sr_1_14?keywords=one+plus+10r&qid=1681443073&sr=8-14",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/613SAOPmLeL._AC_UY218_.jpg",
+            "deal": {
+                "link": "https://www.amazon.in/greatindianfestival",
+                "badge_text": "Blockbuster Value Day"
+            },
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 1786,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 44998,
+                    "currency": "INR",
+                    "raw": "₹44,998",
+                    "name": "Blockbuster Value Day",
+                    "asin": "B0BSNNYHY5",
+                    "link": "https://www.amazon.in/OnePlus-Galactic-Silver-256GB-Storage/dp/B0BSNNYHY5/ref=sr_1_14?keywords=one+plus+10r&qid=1681443073&sr=8-14"
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 44998,
+                "currency": "INR",
+                "raw": "₹44,998",
+                "name": "Blockbuster Value Day",
+                "asin": "B0BSNNYHY5",
+                "link": "https://www.amazon.in/OnePlus-Galactic-Silver-256GB-Storage/dp/B0BSNNYHY5/ref=sr_1_14?keywords=one+plus+10r&qid=1681443073&sr=8-14"
+            },
+            "delivery": {
+                "tagline": "Get it by Today, 14 April"
+            }
+        },
+        {
+            "position": 15,
+            "title": "(Renewed) OnePlus 9 5G Astral Black, 12GB RAM, 256GB Storage",
+            "asin": "B0BS9LNDXH",
+            "link": "https://www.amazon.in/Renewed-OnePlus-Astral-Black-Storage/dp/B0BS9LNDXH/ref=sr_1_15?keywords=one+plus+10r&qid=1681443073&sr=8-15",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61LtguRFSUL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 2,
+            "ratings_total": 3,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 32199,
+                    "currency": "INR",
+                    "raw": "₹32,199",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 54999,
+                    "currency": "INR",
+                    "raw": "₹54,999",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 32199,
+                "currency": "INR",
+                "raw": "₹32,199",
+                "name": "Primary",
+                "is_primary": true
+            },
+            "delivery": {
+                "tagline": "Get it by Tomorrow, 15 April"
+            }
+        },
+        {
+            "position": 16,
+            "title": "(Renewed) OnePlus 9R 5G Carbon Black, 8GB RAM, 128GB Storage",
+            "asin": "B0BS8W7C94",
+            "link": "https://www.amazon.in/Renewed-OnePlus-9R-5G-Storage/dp/B0BS8W7C94/ref=sr_1_16?keywords=one+plus+10r&qid=1681443073&sr=8-16",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61kL3A-U20S._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 2.1,
+            "ratings_total": 3,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 28499,
+                    "currency": "INR",
+                    "raw": "₹28,499",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "₹",
+                    "value": 39999,
+                    "currency": "INR",
+                    "raw": "₹39,999",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 28499,
+                "currency": "INR",
+                "raw": "₹28,499",
+                "name": "Primary",
+                "is_primary": true
+            },
+            "delivery": {
+                "tagline": "Get it by Tomorrow, 15 April"
+            }
+        },
+        {
+            "position": 17,
+            "title": "OnePlus 11 5G (Eternal Green, 16GB RAM, 256GB Storage)",
+            "asin": "B0BQJM2PXW",
+            "link": "https://www.amazon.in/OnePlus-Eternal-Green-256GB-Storage/dp/B0BQJM2PXW/ref=sr_1_17?keywords=one+plus+10r&qid=1681443073&sr=8-17",
+            "categories": [
+                {
+                    "name": "All Categories",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61amb0CfMGL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 1449,
+            "prices": [
+                {
+                    "symbol": "₹",
+                    "value": 61999,
+                    "currency": "INR",
+                    "raw": "₹61,999",
+                    "asin": "B0BQJM2PXW",
+                    "link": "https://www.amazon.in/OnePlus-Eternal-Green-256GB-Storage/dp/B0BQJM2PXW/ref=sr_1_17?keywords=one+plus+10r&qid=1681443073&sr=8-17"
+                }
+            ],
+            "price": {
+                "symbol": "₹",
+                "value": 61999,
+                "currency": "INR",
+                "raw": "₹61,999",
+                "asin": "B0BQJM2PXW",
+                "link": "https://www.amazon.in/OnePlus-Eternal-Green-256GB-Storage/dp/B0BQJM2PXW/ref=sr_1_17?keywords=one+plus+10r&qid=1681443073&sr=8-17"
+            },
+            "delivery": {
+                "tagline": "Get it by Today, 14 April"
+            }
+        }
+    ],
+    "category_information": {
+        "is_landing_page": false
+    },
+    "related_searches": [
+        {
+            "query": "oneplus 10 pro",
+            "link": "https://www.amazon.in/s/?k=oneplus+10+pro&ref=sugsr_0&pd_rd_w=niEuo&content-id=amzn1.sym.6705d6dc-26d1-4cee-9638-634bef10528d:amzn1.sym.6705d6dc-26d1-4cee-9638-634bef10528d&pf_rd_p=6705d6dc-26d1-4cee-9638-634bef10528d&pf_rd_r=2GD81D311GJYH31VPTM9&pd_rd_wg=HRAcX&pd_rd_r=623eacdf-bfc2-41ed-b9b8-34ec7835947c&qid=1681443073"
+        },
+        {
+            "query": "oneplus 9r",
+            "link": "https://www.amazon.in/s/?k=oneplus+9r&ref=sugsr_3&pd_rd_w=niEuo&content-id=amzn1.sym.6705d6dc-26d1-4cee-9638-634bef10528d:amzn1.sym.6705d6dc-26d1-4cee-9638-634bef10528d&pf_rd_p=6705d6dc-26d1-4cee-9638-634bef10528d&pf_rd_r=2GD81D311GJYH31VPTM9&pd_rd_wg=HRAcX&pd_rd_r=623eacdf-bfc2-41ed-b9b8-34ec7835947c&qid=1681443073"
+        },
+        {
+            "query": "oneplus 9rt",
+            "link": "https://www.amazon.in/s/?k=oneplus+9rt&ref=sugsr_1&pd_rd_w=niEuo&content-id=amzn1.sym.6705d6dc-26d1-4cee-9638-634bef10528d:amzn1.sym.6705d6dc-26d1-4cee-9638-634bef10528d&pf_rd_p=6705d6dc-26d1-4cee-9638-634bef10528d&pf_rd_r=2GD81D311GJYH31VPTM9&pd_rd_wg=HRAcX&pd_rd_r=623eacdf-bfc2-41ed-b9b8-34ec7835947c&qid=1681443073"
+        },
+        {
+            "query": "oneplus 9",
+            "link": "https://www.amazon.in/s/?k=oneplus+9&ref=sugsr_4&pd_rd_w=niEuo&content-id=amzn1.sym.6705d6dc-26d1-4cee-9638-634bef10528d:amzn1.sym.6705d6dc-26d1-4cee-9638-634bef10528d&pf_rd_p=6705d6dc-26d1-4cee-9638-634bef10528d&pf_rd_r=2GD81D311GJYH31VPTM9&pd_rd_wg=HRAcX&pd_rd_r=623eacdf-bfc2-41ed-b9b8-34ec7835947c&qid=1681443073"
+        },
+        {
+            "query": "oneplus 10",
+            "link": "https://www.amazon.in/s/?k=oneplus+10&ref=sugsr_2&pd_rd_w=niEuo&content-id=amzn1.sym.6705d6dc-26d1-4cee-9638-634bef10528d:amzn1.sym.6705d6dc-26d1-4cee-9638-634bef10528d&pf_rd_p=6705d6dc-26d1-4cee-9638-634bef10528d&pf_rd_r=2GD81D311GJYH31VPTM9&pd_rd_wg=HRAcX&pd_rd_r=623eacdf-bfc2-41ed-b9b8-34ec7835947c&qid=1681443073"
+        },
+        {
+            "query": "oneplus 9 pro",
+            "link": "https://www.amazon.in/s/?k=oneplus+9+pro&ref=sugsr_5&pd_rd_w=niEuo&content-id=amzn1.sym.6705d6dc-26d1-4cee-9638-634bef10528d:amzn1.sym.6705d6dc-26d1-4cee-9638-634bef10528d&pf_rd_p=6705d6dc-26d1-4cee-9638-634bef10528d&pf_rd_r=2GD81D311GJYH31VPTM9&pd_rd_wg=HRAcX&pd_rd_r=623eacdf-bfc2-41ed-b9b8-34ec7835947c&qid=1681443073"
+        }
+    ],
+    "pagination": {
+        "total_results": 82,
+        "current_page": 1,
+        "next_page_link": "https://www.amazon.in/s?k=one+plus+10r&page=2&qid=1681443073&ref=sr_pg_2",
+        "total_pages": 6
+    },
+    "refinements": {
+        "delivery": [
+            {
+                "name": "Get It Today",
+                "value": "p_90/6741117031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=p_90%3A6741117031&dc&qid=1681443073&rnid=6741116031&ref=sr_nr_p_90_1&ds=v1%3AyEwojIsJU1u4hfbIM4t1LHu8XXeH75KwXnkse8H5S2g",
+                "refinement_display_name": "Delivery"
+            },
+            {
+                "name": "Get It by Tomorrow",
+                "value": "p_90/6741118031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=p_90%3A6741118031&dc&qid=1681443073&rnid=6741116031&ref=sr_nr_p_90_2&ds=v1%3A0gTzB2%2BOgxM3JC0TaDw2JeZRLKsEl0fXnA2aM8iZzvU",
+                "refinement_display_name": "Delivery"
+            },
+            {
+                "name": "Get It in 2 Days",
+                "value": "p_90/20912642031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=p_90%3A20912642031&dc&qid=1681443073&rnid=6741116031&ref=sr_nr_p_90_3&ds=v1%3AAylkxSYGk1Eif8mFu4vDlWRZNo1J85Pf5UcUVT1rGRk",
+                "refinement_display_name": "Delivery"
+            }
+        ],
+        "departments": [
+            {
+                "name": "Smartphones & Basic Mobiles",
+                "value": "n/1389432031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031&dc&qid=1681443073&rnid=3576079031&ref=sr_nr_n_1&ds=v1%3A7AfqWc1H87TAsg9IbKFAGEEhNRMUDNE9sRMPZP6eGv4",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Smartphones",
+                "value": "n/1805560031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cn%3A1805560031&dc&qid=1681443073&rnid=3576079031&ref=sr_nr_n_2&ds=v1%3AFf9yZaSxOfEQnM4y11800koDS9Lo1n9G9wnsyQ4Fn6c",
+                "refinement_display_name": "Departments"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "4 Stars & Up",
+                "value": "p_72/1318476031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=p_72%3A1318476031&dc&qid=1681443073&rnid=1318475031&ref=sr_nr_p_72_1&ds=v1%3ARJOtMmLPsC%2FFOqr%2FAWT9aTDDK38nesLDad2%2BcOY4BYE",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "3 Stars & Up",
+                "value": "p_72/1318477031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=p_72%3A1318477031&dc&qid=1681443073&rnid=1318475031&ref=sr_nr_p_72_2&ds=v1%3AyRufQhgw%2BWpYxZPga6gCFIR5Ju5JfLeeW28qVYs%2Bsh0",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "2 Stars & Up",
+                "value": "p_72/1318478031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=p_72%3A1318478031&dc&qid=1681443073&rnid=1318475031&ref=sr_nr_p_72_3&ds=v1%3AGOZHtpioFQYWx4pE2wrMHLzcH1ylaB8TFTyLwCs0UEg",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "1 Star & Up",
+                "value": "p_72/1318479031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=p_72%3A1318479031&dc&qid=1681443073&rnid=1318475031&ref=sr_nr_p_72_4&ds=v1%3Ahy%2B9EaX%2BfTJSps8mjT6wY35Ke0r%2F1g8zPdeWG5rDYcY",
+                "refinement_display_name": "Reviews"
+            }
+        ],
+        "price": [
+            {
+                "name": "Under ₹1,000",
+                "value": "n:976419031||p_36/1318503031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A976419031%2Cp_36%3A1318503031&dc&qid=1681443073&rnid=1318502031&ref=sr_nr_p_36_1&ds=v1%3AQTUgKlWxtSdPPKmC31NH5JdtDn1q0b1DdtR1pjfmZpo",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "₹1,000 - ₹5,000",
+                "value": "n:976419031||p_36/1318504031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A976419031%2Cp_36%3A1318504031&dc&qid=1681443073&rnid=1318502031&ref=sr_nr_p_36_2&ds=v1%3AO2%2B4lV5U2f%2FcXgeIpTug%2FG9XM5hEAnSbguCyCj9nZ0w",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "₹5,000 - ₹10,000",
+                "value": "n:976419031||p_36/1318505031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A976419031%2Cp_36%3A1318505031&dc&qid=1681443073&rnid=1318502031&ref=sr_nr_p_36_3&ds=v1%3AoNQj3nr1ScBRUHBEZ%2Bsl5bQxCmzWWFWB48HCGlUXxZA",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "₹10,000 - ₹20,000",
+                "value": "n:976419031||p_36/1318506031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A976419031%2Cp_36%3A1318506031&dc&qid=1681443073&rnid=1318502031&ref=sr_nr_p_36_4&ds=v1%3AcSLLb5TGgU95YXVD32e2ISHrL37Ly1T9zb2nLXYS8%2FE",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "Over ₹20,000",
+                "value": "n:976419031||p_36/1318507031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A976419031%2Cp_36%3A1318507031&dc&qid=1681443073&rnid=1318502031&ref=sr_nr_p_36_5&ds=v1%3ABFGVy7VlunmCfbNmGhdjvtCpaqDNc9OnT0%2B9cKBTTVk",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "₹        ₹            Go",
+                "value": "p_36/price-range",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "Today's Deals",
+                "value": "p_n_specials_match/21618256031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=p_n_specials_match%3A21618256031&dc&qid=1681443073&rnid=21618255031&ref=sr_nr_p_n_specials_match_1&ds=v1%3AZW1BEKAWC4f6jxO3CywVv8Ly%2B3prS4Rzi5lXtccA9OU",
+                "refinement_display_name": "Price"
+            }
+        ],
+        "brand": [
+            {
+                "name": "OnePlus",
+                "value": "n:1389432031||p_89/OnePlus",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_89%3AOnePlus&dc&qid=1681443073&rnid=3837712031&ref=sr_nr_p_89_1&ds=v1%3AhfP72pu7OIr5vbq4CQj%2BiQqJ3oqA%2B9OdmXgiqKgT3cw",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "iQOO",
+                "value": "n:1389432031||p_89/iQOO",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_89%3AiQOO&dc&qid=1681443073&rnid=3837712031&ref=sr_nr_p_89_2&ds=v1%3Ag4h1nafr0vDOhM3aLyNMv%2Ff3uzE0OG5UpHHHUf00BIg",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Tecno",
+                "value": "n:1389432031||p_89/Tecno",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_89%3ATecno&dc&qid=1681443073&rnid=3837712031&ref=sr_nr_p_89_3&ds=v1%3A89N3QW%2Fag27HnTRM%2BYFgbZ0qY%2B%2Boj%2FZK1efrEZQWUp0",
+                "refinement_display_name": "Brand"
+            }
+        ],
+        "cell_phone_brands": [
+            {
+                "name": "Top Brands",
+                "value": "n:1389432031||p_n_format_browse-bin/30678580031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_format_browse-bin%3A30678580031&dc&qid=1681443073&rnid=30678573031&ref=sr_nr_p_n_format_browse-bin_1&ds=v1%3AIf3Dyzytu%2FdZbH8sYW7VPF6NlPCjMiz9I03PERu%2BbfQ",
+                "refinement_display_name": "Cell Phone Brands"
+            }
+        ],
+        "cellular_phone_operating_system": [
+            {
+                "name": "Android 11.0",
+                "value": "n:1389432031||p_n_feature_thirty-one_browse-bin/51258744031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty-one_browse-bin%3A51258744031&dc&qid=1681443073&rnid=51258619031&ref=sr_nr_p_n_feature_thirty-one_browse-bin_1&ds=v1%3APJp9rkdoqVOEv0pBJTbdzhZl2QQUOFGR8nqqSaDJLFQ",
+                "refinement_display_name": "Cellular Phone Operating System"
+            },
+            {
+                "name": "Android 12.0",
+                "value": "n:1389432031||p_n_feature_thirty-one_browse-bin/51258733031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty-one_browse-bin%3A51258733031&dc&qid=1681443073&rnid=51258619031&ref=sr_nr_p_n_feature_thirty-one_browse-bin_2&ds=v1%3A%2BTo5J8d5nqncPYfbHzlZjtkjbHGf14nEjWHUTZ2wrf4",
+                "refinement_display_name": "Cellular Phone Operating System"
+            },
+            {
+                "name": "Android 8.1",
+                "value": "n:1389432031||p_n_feature_thirty-one_browse-bin/51258780031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty-one_browse-bin%3A51258780031&dc&qid=1681443073&rnid=51258619031&ref=sr_nr_p_n_feature_thirty-one_browse-bin_3&ds=v1%3AXc9hEW8vkggDcFkPppT4uiM4qloF%2FI6BNgBBf9J2cHU",
+                "refinement_display_name": "Cellular Phone Operating System"
+            },
+            {
+                "name": "OxygenOS",
+                "value": "n:1389432031||p_n_feature_thirty-one_browse-bin/51258674031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty-one_browse-bin%3A51258674031&dc&qid=1681443073&rnid=51258619031&ref=sr_nr_p_n_feature_thirty-one_browse-bin_4&ds=v1%3A4JXS6ckFSEJEo%2BY7MThuQCVXiiKFjChaxUvgQgKZ%2BsE",
+                "refinement_display_name": "Cellular Phone Operating System"
+            }
+        ],
+        "pay_on_delivery": [
+            {
+                "name": "Eligible for Pay On Delivery",
+                "value": "p_n_is_cod_eligible/4931671031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=p_n_is_cod_eligible%3A4931671031&dc&qid=1681443073&rnid=4931670031&ref=sr_nr_p_n_is_cod_eligible_1&ds=v1%3AHCbH62I2uYKPMsnCqnZrnIPXSIaCQKOGGwXlRgDCJ4g",
+                "refinement_display_name": "Pay On Delivery"
+            }
+        ],
+        "internal_memory": [
+            {
+                "name": "Less than 3.9 GB",
+                "value": "n:1805560031||p_n_feature_eight_browse-bin/8561118031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1805560031%2Cp_n_feature_eight_browse-bin%3A8561118031&dc&qid=1681443073&rnid=8561111031&ref=sr_nr_p_n_feature_eight_browse-bin_1&ds=v1%3AdOxSAxQlDfbx8nAc0sDux4JmSfXYbtUT2W0vrLv3r20",
+                "refinement_display_name": "Internal Memory"
+            },
+            {
+                "name": "4 GB",
+                "value": "n:1805560031||p_n_feature_eight_browse-bin/8561115031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1805560031%2Cp_n_feature_eight_browse-bin%3A8561115031&dc&qid=1681443073&rnid=8561111031&ref=sr_nr_p_n_feature_eight_browse-bin_2&ds=v1%3A%2BVW8BtgG8FEN8Zb1m6KpvJYbCNThYbQXpLrC8eK4Lt4",
+                "refinement_display_name": "Internal Memory"
+            },
+            {
+                "name": "8 GB",
+                "value": "n:1805560031||p_n_feature_eight_browse-bin/8561117031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1805560031%2Cp_n_feature_eight_browse-bin%3A8561117031&dc&qid=1681443073&rnid=8561111031&ref=sr_nr_p_n_feature_eight_browse-bin_3&ds=v1%3AkNUyBN4ELHgfllB0CuSP1B4W2X18sIhtWWW9d66H12M",
+                "refinement_display_name": "Internal Memory"
+            },
+            {
+                "name": "64 GB",
+                "value": "n:1805560031||p_n_feature_eight_browse-bin/8561116031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1805560031%2Cp_n_feature_eight_browse-bin%3A8561116031&dc&qid=1681443073&rnid=8561111031&ref=sr_nr_p_n_feature_eight_browse-bin_4&ds=v1%3AJyOWgBLmr1lqnSPO9sP4IeDxnmmg3%2BV2pni1%2FoQnBwk",
+                "refinement_display_name": "Internal Memory"
+            },
+            {
+                "name": "128 GB",
+                "value": "n:1805560031||p_n_feature_eight_browse-bin/8561112031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1805560031%2Cp_n_feature_eight_browse-bin%3A8561112031&dc&qid=1681443073&rnid=8561111031&ref=sr_nr_p_n_feature_eight_browse-bin_5&ds=v1%3AgC1Lzhq5V9jLnklsnT2HKWw8lXs2pR68ngtgorz6vCE",
+                "refinement_display_name": "Internal Memory"
+            },
+            {
+                "name": "256 GB & above",
+                "value": "n:1805560031||p_n_feature_eight_browse-bin/14267636031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1805560031%2Cp_n_feature_eight_browse-bin%3A14267636031&dc&qid=1681443073&rnid=8561111031&ref=sr_nr_p_n_feature_eight_browse-bin_6&ds=v1%3AMJfmDce46yUW5W6aVkJQPMwRMSftOh1hAEgdJvhW8e8",
+                "refinement_display_name": "Internal Memory"
+            }
+        ],
+        "mobile_phone_item_weight": [
+            {
+                "name": "142 to 197.9 g",
+                "value": "n:1389432031||p_n_feature_twenty-seven_browse-bin/42659588031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_twenty-seven_browse-bin%3A42659588031&dc&qid=1681443073&rnid=42659587031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_1&ds=v1%3Aym7SQOlscA0pz27D%2FTEHCT5%2FmFmyvqLGyzsU5Ivrzwg",
+                "refinement_display_name": "Mobile Phone Item Weight"
+            },
+            {
+                "name": "198 to 254.9 g",
+                "value": "n:1389432031||p_n_feature_twenty-seven_browse-bin/42659589031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_twenty-seven_browse-bin%3A42659589031&dc&qid=1681443073&rnid=42659587031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_2&ds=v1%3AjOZywduhUzC075wPeq%2FTx9KLZdNNq%2BajmQsV5nPcisY",
+                "refinement_display_name": "Mobile Phone Item Weight"
+            },
+            {
+                "name": "255 g & Above",
+                "value": "n:1389432031||p_n_feature_twenty-seven_browse-bin/42659591031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_twenty-seven_browse-bin%3A42659591031&dc&qid=1681443073&rnid=42659587031&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_3&ds=v1%3ACaFj4w0YXzdDT2lUTtBJNJvQOuTQpvKpe7jtG2o7duU",
+                "refinement_display_name": "Mobile Phone Item Weight"
+            }
+        ],
+        "screen_size": [
+            {
+                "name": "5.5 in & above",
+                "value": "n:1389432031||p_n_feature_six_browse-bin/6631756031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_six_browse-bin%3A6631756031&dc&qid=1681443073&rnid=6631751031&ref=sr_nr_p_n_feature_six_browse-bin_1&ds=v1%3AinbQpUo8mh2wsNpXIflgFJX1d2seTcu0U71GgVvfRUE",
+                "refinement_display_name": "Screen Size"
+            }
+        ],
+        "processor_speed": [
+            {
+                "name": "Less Than 0.99 GHz",
+                "value": "n:1805560031||p_n_feature_nine_browse-bin/8561128031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1805560031%2Cp_n_feature_nine_browse-bin%3A8561128031&dc&qid=1681443073&rnid=8561123031&ref=sr_nr_p_n_feature_nine_browse-bin_1&ds=v1%3AGG6tm1vOvbFh2j9oEJg25myUTmUtkn64%2BQ7xJfuz3Vs",
+                "refinement_display_name": "Processor Speed"
+            },
+            {
+                "name": "2 - 2.4 GHz",
+                "value": "n:1805560031||p_n_feature_nine_browse-bin/8561126031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1805560031%2Cp_n_feature_nine_browse-bin%3A8561126031&dc&qid=1681443073&rnid=8561123031&ref=sr_nr_p_n_feature_nine_browse-bin_2&ds=v1%3A2j2fD7IgRsMplxVZX4Imq4vK3xP37lVA%2FndH1CgNnXk",
+                "refinement_display_name": "Processor Speed"
+            },
+            {
+                "name": "2.5 GHz & Above",
+                "value": "n:1805560031||p_n_feature_nine_browse-bin/8561127031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1805560031%2Cp_n_feature_nine_browse-bin%3A8561127031&dc&qid=1681443073&rnid=8561123031&ref=sr_nr_p_n_feature_nine_browse-bin_3&ds=v1%3AjgBou7CVLSDqZCkOUgXdrv%2BDaTLiTv%2FXDRptM4wH8e8",
+                "refinement_display_name": "Processor Speed"
+            }
+        ],
+        "mobile_phone_form_factor": [
+            {
+                "name": "Bar",
+                "value": "n:1389432031||p_n_feature_twenty-three_browse-bin/28161950031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_twenty-three_browse-bin%3A28161950031&dc&qid=1681443073&rnid=28161949031&ref=sr_nr_p_n_feature_twenty-three_browse-bin_1&ds=v1%3Av9DCNweQyfTTb34VUzCt2hmm2XwFtY3xqDLPfGaO0NE",
+                "refinement_display_name": "Mobile Phone Form Factor"
+            }
+        ],
+        "battery_capacity": [
+            {
+                "name": "3000 - 3999 mAh",
+                "value": "n:1389432031||p_n_feature_thirteen_browse-bin/8561101031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirteen_browse-bin%3A8561101031&dc&qid=1681443073&rnid=8561098031&ref=sr_nr_p_n_feature_thirteen_browse-bin_1&ds=v1%3AEq%2FCsawd9sERKOBKv6Jh%2FH%2BUixKEJo2jtbL2AyqnjWI",
+                "refinement_display_name": "Battery Capacity"
+            },
+            {
+                "name": "4000 mAh & More",
+                "value": "n:1389432031||p_n_feature_thirteen_browse-bin/8561102031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirteen_browse-bin%3A8561102031&dc&qid=1681443073&rnid=8561098031&ref=sr_nr_p_n_feature_thirteen_browse-bin_2&ds=v1%3A8Sba8v5hnrxMlyz1rsB%2BcN4n2%2FvjY%2F%2BbR4W4PPxfwTs",
+                "refinement_display_name": "Battery Capacity"
+            }
+        ],
+        "mobile_phone_sim_card_size": [
+            {
+                "name": "Nano",
+                "value": "n:1389432031||p_n_feature_twelve_browse-bin/27179455031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_twelve_browse-bin%3A27179455031&dc&qid=1681443073&rnid=27179438031&ref=sr_nr_p_n_feature_twelve_browse-bin_1&ds=v1%3A49TnjvOS3TMH8Zm%2BrGIwWL5sndbfNd8YAMNsiccT%2Fg0",
+                "refinement_display_name": "Mobile Phone SIM Card Size"
+            }
+        ],
+        "mobile_phone_connectivity_technology": [
+            {
+                "name": "Bluetooth",
+                "value": "n:1389432031||p_n_feature_twenty_browse-bin/27363277031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_twenty_browse-bin%3A27363277031&dc&qid=1681443073&rnid=27363274031&ref=sr_nr_p_n_feature_twenty_browse-bin_1&ds=v1%3A1DebIpe0Om%2Bz9cwUyfhN6Km28Wk1IHPwt4Sik0OW9YE",
+                "refinement_display_name": "Mobile Phone Connectivity Technology"
+            },
+            {
+                "name": "USB",
+                "value": "n:1389432031||p_n_feature_twenty_browse-bin/27363276031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_twenty_browse-bin%3A27363276031&dc&qid=1681443073&rnid=27363274031&ref=sr_nr_p_n_feature_twenty_browse-bin_2&ds=v1%3A8mmA7%2F887uw6tnTsALgbruqKg0b0P%2BtNehJ4qmDEtYM",
+                "refinement_display_name": "Mobile Phone Connectivity Technology"
+            },
+            {
+                "name": "Wi-Fi",
+                "value": "n:1389432031||p_n_feature_twenty_browse-bin/27363278031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_twenty_browse-bin%3A27363278031&dc&qid=1681443073&rnid=27363274031&ref=sr_nr_p_n_feature_twenty_browse-bin_3&ds=v1%3AD1PhnFCA6KCph2ksX%2FnsTPoR1tHJiSHrPuyVqexdgRM",
+                "refinement_display_name": "Mobile Phone Connectivity Technology"
+            }
+        ],
+        "mobile_phone_display_type": [
+            {
+                "name": "AMOLED",
+                "value": "n:1389432031||p_n_feature_thirty-four_browse-bin/66009619031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty-four_browse-bin%3A66009619031&dc&qid=1681443073&rnid=66009617031&ref=sr_nr_p_n_feature_thirty-four_browse-bin_1&ds=v1%3AcPQBScJZSmNEWHg%2FX2vulpSwGAInYk%2FxARsylZTubl0",
+                "refinement_display_name": "Mobile Phone Display Type"
+            },
+            {
+                "name": "LCD",
+                "value": "n:1389432031||p_n_feature_thirty-four_browse-bin/66009618031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty-four_browse-bin%3A66009618031&dc&qid=1681443073&rnid=66009617031&ref=sr_nr_p_n_feature_thirty-four_browse-bin_2&ds=v1%3AWeoH9CNKUGe6byVVXiKd4%2BPsmhfcvyzlBcUvwO7w%2Bos",
+                "refinement_display_name": "Mobile Phone Display Type"
+            }
+        ],
+        "mobile_phone_included_components": [
+            {
+                "name": "Phone Case",
+                "value": "n:1389432031||p_n_feature_thirty-three_browse-bin/66008623031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty-three_browse-bin%3A66008623031&dc&qid=1681443073&rnid=66008593031&ref=sr_nr_p_n_feature_thirty-three_browse-bin_1&ds=v1%3A5LWvfm%2Flb5mfbkNgCN7YxFqsfA8RiVDS%2FaiDcN1WugQ",
+                "refinement_display_name": "Mobile Phone Included Components"
+            },
+            {
+                "name": "Screen Protector",
+                "value": "n:1389432031||p_n_feature_thirty-three_browse-bin/66008622031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty-three_browse-bin%3A66008622031&dc&qid=1681443073&rnid=66008593031&ref=sr_nr_p_n_feature_thirty-three_browse-bin_2&ds=v1%3AnWV5d%2FaopaOTzogN4UXkjZmJ%2F6brkkKhEHwQyHOatng",
+                "refinement_display_name": "Mobile Phone Included Components"
+            },
+            {
+                "name": "SIM Tray Ejector",
+                "value": "n:1389432031||p_n_feature_thirty-three_browse-bin/66008617031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty-three_browse-bin%3A66008617031&dc&qid=1681443073&rnid=66008593031&ref=sr_nr_p_n_feature_thirty-three_browse-bin_3&ds=v1%3AfNvG1ajnUmVyQX5WbBLUP2ank25rhJzT8RzOcl%2FTdg0",
+                "refinement_display_name": "Mobile Phone Included Components"
+            },
+            {
+                "name": "USB Cable",
+                "value": "n:1389432031||p_n_feature_thirty-three_browse-bin/66008618031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty-three_browse-bin%3A66008618031&dc&qid=1681443073&rnid=66008593031&ref=sr_nr_p_n_feature_thirty-three_browse-bin_4&ds=v1%3AxedO8QSU0I7FLBfMekW5O0EK4saJF5QdMForOeUBZY4",
+                "refinement_display_name": "Mobile Phone Included Components"
+            }
+        ],
+        "mobile_phone_shooting_modes": [
+            {
+                "name": "Automatic",
+                "value": "n:1389432031||p_n_feature_sixteen_browse-bin/27316764031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_sixteen_browse-bin%3A27316764031&dc&qid=1681443073&rnid=27316761031&ref=sr_nr_p_n_feature_sixteen_browse-bin_1&ds=v1%3AOkMJpS3IKbY5XuPPZBzlin%2B0%2BPmdl4NIRm2zPco2bfs",
+                "refinement_display_name": "Mobile Phone Shooting Modes"
+            },
+            {
+                "name": "High Dynamic Range",
+                "value": "n:1389432031||p_n_feature_sixteen_browse-bin/27316767031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_sixteen_browse-bin%3A27316767031&dc&qid=1681443073&rnid=27316761031&ref=sr_nr_p_n_feature_sixteen_browse-bin_2&ds=v1%3ARZmeL6go2a6Z6uECGcX6n6ZmFA2jZJoQEdyfOLGOAFs",
+                "refinement_display_name": "Mobile Phone Shooting Modes"
+            },
+            {
+                "name": "Macro",
+                "value": "n:1389432031||p_n_feature_sixteen_browse-bin/27316769031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_sixteen_browse-bin%3A27316769031&dc&qid=1681443073&rnid=27316761031&ref=sr_nr_p_n_feature_sixteen_browse-bin_3&ds=v1%3Ar2U9Tyms79NHjLY1TfWPkwbIjFAhrGZmtEOuWyfLpCY",
+                "refinement_display_name": "Mobile Phone Shooting Modes"
+            },
+            {
+                "name": "Manual",
+                "value": "n:1389432031||p_n_feature_sixteen_browse-bin/27316772031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_sixteen_browse-bin%3A27316772031&dc&qid=1681443073&rnid=27316761031&ref=sr_nr_p_n_feature_sixteen_browse-bin_4&ds=v1%3AHch0boVdB%2FNjq2zCYuzx180oCY%2FJtTg9xp1AvfHQGzI",
+                "refinement_display_name": "Mobile Phone Shooting Modes"
+            },
+            {
+                "name": "Night Mode",
+                "value": "n:1389432031||p_n_feature_sixteen_browse-bin/27316771031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_sixteen_browse-bin%3A27316771031&dc&qid=1681443073&rnid=27316761031&ref=sr_nr_p_n_feature_sixteen_browse-bin_5&ds=v1%3AtlpNdtNETatLIAZxN5LdNVFS6lVnWis5CCDjo12%2FeY0",
+                "refinement_display_name": "Mobile Phone Shooting Modes"
+            },
+            {
+                "name": "Panorama",
+                "value": "n:1389432031||p_n_feature_sixteen_browse-bin/27316770031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_sixteen_browse-bin%3A27316770031&dc&qid=1681443073&rnid=27316761031&ref=sr_nr_p_n_feature_sixteen_browse-bin_6&ds=v1%3Ah9XSkZP2FrY5xiWQW51vFRcHftbEpnKgqb%2Fkk9rvyq4",
+                "refinement_display_name": "Mobile Phone Shooting Modes"
+            },
+            {
+                "name": "Portrait",
+                "value": "n:1389432031||p_n_feature_sixteen_browse-bin/27316773031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_sixteen_browse-bin%3A27316773031&dc&qid=1681443073&rnid=27316761031&ref=sr_nr_p_n_feature_sixteen_browse-bin_7&ds=v1%3ASlIIoqf5gQbEvi54Vp5uXRCojZ4pIJmH5628N8cguwU",
+                "refinement_display_name": "Mobile Phone Shooting Modes"
+            },
+            {
+                "name": "Scene",
+                "value": "n:1389432031||undefined",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_sixteen_browse-bin%3A27316775031&dc&qid=1681443073&rnid=27316761031&ref=sr_nr_p_n_feature_sixteen_browse-bin_8&ds=v1%3AeDvuLwfG5LEISkiV0PTbmCKcTeuU87T38hSTlnZH8Yk",
+                "refinement_display_name": "Mobile Phone Shooting Modes"
+            },
+            {
+                "name": "Scene",
+                "value": "n:1389432031||p_n_feature_sixteen_browse-bin/27316775031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_sixteen_browse-bin%3A27316775031&dc&qid=1681443073&rnid=27316761031&ref=sr_nr_p_n_feature_sixteen_browse-bin_8&ds=v1%3AeDvuLwfG5LEISkiV0PTbmCKcTeuU87T38hSTlnZH8Yk",
+                "refinement_display_name": "Mobile Phone Shooting Modes"
+            }
+        ],
+        "mobile_phone_front_photo_sensor_resolution": [
+            {
+                "name": "Up to 6.9 MP",
+                "value": "n:1389432031||p_n_feature_thirty-two_browse-bin/61505203031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty-two_browse-bin%3A61505203031&dc&qid=1681443073&rnid=61505195031&ref=sr_nr_p_n_feature_thirty-two_browse-bin_1&ds=v1%3A%2FZuh5tc8T%2BZiAfSdbJjkOOOKlJB0J3GMSKDucCZPyww",
+                "refinement_display_name": "Mobile Phone Front Photo Sensor Resolution"
+            },
+            {
+                "name": "7.0 to 9.9 MP",
+                "value": "n:1389432031||p_n_feature_thirty-two_browse-bin/61505201031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty-two_browse-bin%3A61505201031&dc&qid=1681443073&rnid=61505195031&ref=sr_nr_p_n_feature_thirty-two_browse-bin_2&ds=v1%3AECBt2omB08CeQMkv3InGAFyAwxCJ1L34ecybpcJpIfM",
+                "refinement_display_name": "Mobile Phone Front Photo Sensor Resolution"
+            },
+            {
+                "name": "13.0 MP & above",
+                "value": "n:1389432031||p_n_feature_thirty-two_browse-bin/61505197031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty-two_browse-bin%3A61505197031&dc&qid=1681443073&rnid=61505195031&ref=sr_nr_p_n_feature_thirty-two_browse-bin_3&ds=v1%3AxK3zfZYczvZUXfiIClSdmq7DJnsVat5Lq7aJ5H7D%2BLg",
+                "refinement_display_name": "Mobile Phone Front Photo Sensor Resolution"
+            }
+        ],
+        "mobile_phone_biometric_security_feature": [
+            {
+                "name": "Fingerprint Recognition",
+                "value": "n:1389432031||p_n_feature_eighteen_browse-bin/27355812031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_eighteen_browse-bin%3A27355812031&dc&qid=1681443073&rnid=27355796031&ref=sr_nr_p_n_feature_eighteen_browse-bin_1&ds=v1%3AE0xIlY482k%2BYuKz0q4EYVxU0VxUON%2BUefpR%2FtZshOv0",
+                "refinement_display_name": "Mobile Phone Biometric Security Feature"
+            }
+        ],
+        "mobile_phone_refresh_rate": [
+            {
+                "name": "89 to 104 Hz",
+                "value": "n:1389432031||p_n_feature_twenty-eight_browse-bin/56163444031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_twenty-eight_browse-bin%3A56163444031&dc&qid=1681443073&rnid=56162597031&ref=sr_nr_p_n_feature_twenty-eight_browse-bin_1&ds=v1%3A%2Fd8aVXQTuS62UpLGixq2yXdfuisFcqjAzQRGZIhpaVI",
+                "refinement_display_name": "Mobile Phone Refresh Rate"
+            },
+            {
+                "name": "105 to 120 Hz",
+                "value": "n:1389432031||p_n_feature_twenty-eight_browse-bin/56163447031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_twenty-eight_browse-bin%3A56163447031&dc&qid=1681443073&rnid=56162597031&ref=sr_nr_p_n_feature_twenty-eight_browse-bin_2&ds=v1%3AsmSJ1IUmUUgCPwzFA6SDTzc3IxqBRWkJkcBPwWRgsf0",
+                "refinement_display_name": "Mobile Phone Refresh Rate"
+            }
+        ],
+        "mobile_phone_human_interface_input": [
+            {
+                "name": "Touchscreen",
+                "value": "n:1389432031||p_n_feature_nineteen_browse-bin/27362061031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_nineteen_browse-bin%3A27362061031&dc&qid=1681443073&rnid=27362059031&ref=sr_nr_p_n_feature_nineteen_browse-bin_1&ds=v1%3AuPmpF3cw0iQci4vgbDeGoVwz501tKG8G0GuEqlB1W1k",
+                "refinement_display_name": "Mobile Phone Human Interface Input"
+            }
+        ],
+        "mobile_phone_primary_camera_resolution": [
+            {
+                "name": "12 - 15.9 MP",
+                "value": "n:1389432031||p_n_feature_fourteen_browse-bin/21329554031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_fourteen_browse-bin%3A21329554031&dc&qid=1681443073&rnid=21345983031&ref=sr_nr_p_n_feature_fourteen_browse-bin_1&ds=v1%3AuT3NNxfh0agqI%2B0qOkp57SlVhpE3E3hVL%2FdEYfUuEmU",
+                "refinement_display_name": "Mobile Phone Primary Camera Resolution"
+            },
+            {
+                "name": "16 - 19.9 MP",
+                "value": "n:1389432031||p_n_feature_fourteen_browse-bin/21329555031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_fourteen_browse-bin%3A21329555031&dc&qid=1681443073&rnid=21345983031&ref=sr_nr_p_n_feature_fourteen_browse-bin_2&ds=v1%3AM7FsgSmqx2mCkooY9yuzygm6Jw%2FkatDusXl0UCY3TqU",
+                "refinement_display_name": "Mobile Phone Primary Camera Resolution"
+            },
+            {
+                "name": "20 - 23.9 MP",
+                "value": "n:1389432031||p_n_feature_fourteen_browse-bin/21329556031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_fourteen_browse-bin%3A21329556031&dc&qid=1681443073&rnid=21345983031&ref=sr_nr_p_n_feature_fourteen_browse-bin_3&ds=v1%3AN599HbE61BZ6fdDXxKLKoj1YE15VvDGncR2hGxKwTBA",
+                "refinement_display_name": "Mobile Phone Primary Camera Resolution"
+            },
+            {
+                "name": "32 MP & Above",
+                "value": "n:1389432031||p_n_feature_fourteen_browse-bin/21329559031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_fourteen_browse-bin%3A21329559031&dc&qid=1681443073&rnid=21345983031&ref=sr_nr_p_n_feature_fourteen_browse-bin_4&ds=v1%3A4pBdBOXsEztikqYj7BhxJJ2NqepWAhgX%2FhRjNq1Dgos",
+                "refinement_display_name": "Mobile Phone Primary Camera Resolution"
+            }
+        ],
+        "mobile_phone_sim_card_slot_count": [
+            {
+                "name": "Dual SIM",
+                "value": "n:1389432031||p_n_feature_fifteen_browse-bin/27179459031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_fifteen_browse-bin%3A27179459031&dc&qid=1681443073&rnid=27179439031&ref=sr_nr_p_n_feature_fifteen_browse-bin_1&ds=v1%3AYJ59Un4VzDwgCwdTlkKQDBNQBvs10jRvPoqfJMU5Gjo",
+                "refinement_display_name": "Mobile Phone SIM Card Slot Count"
+            }
+        ],
+        "cell_phone_connector_type": [
+            {
+                "name": "USB Type C",
+                "value": "n:1389432031||p_n_feature_twenty-two_browse-bin/27403491031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_twenty-two_browse-bin%3A27403491031&dc&qid=1681443073&rnid=27403487031&ref=sr_nr_p_n_feature_twenty-two_browse-bin_1&ds=v1%3Amv8eC2uWgkMLONGP0XmNbM4BKrWR5su%2BAQu0skoN8Io",
+                "refinement_display_name": "Cell Phone Connector Type"
+            }
+        ],
+        "mobile_phone_resolution": [
+            {
+                "name": "1080 x 2400",
+                "value": "n:1389432031||p_n_feature_seventeen_browse-bin/27345186031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_seventeen_browse-bin%3A27345186031&dc&qid=1681443073&rnid=27345181031&ref=sr_nr_p_n_feature_seventeen_browse-bin_1&ds=v1%3AIkG8HzyfYgK%2BjuUQR5QPrq58r8q7vuJBvM20Btts2MI",
+                "refinement_display_name": "Mobile Phone Resolution"
+            },
+            {
+                "name": "2280 x 1080",
+                "value": "n:1389432031||p_n_feature_seventeen_browse-bin/27345251031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_seventeen_browse-bin%3A27345251031&dc&qid=1681443073&rnid=27345181031&ref=sr_nr_p_n_feature_seventeen_browse-bin_2&ds=v1%3AvH0xUyZqUccC04%2BJqAi6pCICK8tTeHkKL9iG2Gn7l44",
+                "refinement_display_name": "Mobile Phone Resolution"
+            }
+        ],
+        "device_features": [
+            {
+                "name": "Dual SIM",
+                "value": "n:1389432031||p_n_feature_three_browse-bin/1897963031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_three_browse-bin%3A1897963031&dc&qid=1681443073&rnid=1484941031&ref=sr_nr_p_n_feature_three_browse-bin_1&ds=v1%3AEYwnAr26GQeeOw5zveLAByze%2FvWluTWMkmwYiMWfGMI",
+                "refinement_display_name": "Device Features"
+            },
+            {
+                "name": "E-Mail",
+                "value": "n:1389432031||p_n_feature_three_browse-bin/1484944031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_three_browse-bin%3A1484944031&dc&qid=1681443073&rnid=1484941031&ref=sr_nr_p_n_feature_three_browse-bin_2&ds=v1%3Avz1uNwhIsK%2BJAJLCF2PcNQ8xxblYmugPFzqyxldLZxE",
+                "refinement_display_name": "Device Features"
+            },
+            {
+                "name": "GPS",
+                "value": "n:1389432031||p_n_feature_three_browse-bin/1484945031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_three_browse-bin%3A1484945031&dc&qid=1681443073&rnid=1484941031&ref=sr_nr_p_n_feature_three_browse-bin_3&ds=v1%3AT8pvaJvz%2FFk49%2BlHPD4NNyKlQWlIMQ8EWAdF0ivtWHQ",
+                "refinement_display_name": "Device Features"
+            },
+            {
+                "name": "Hotspot",
+                "value": "n:1389432031||p_n_feature_three_browse-bin/1897958031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_three_browse-bin%3A1897958031&dc&qid=1681443073&rnid=1484941031&ref=sr_nr_p_n_feature_three_browse-bin_4&ds=v1%3AbvuJ5%2F3j6601L%2BP0DMBkiC0JL5pvYmwQtGBi1CKe3Ts",
+                "refinement_display_name": "Device Features"
+            },
+            {
+                "name": "Music Player",
+                "value": "n:1389432031||p_n_feature_three_browse-bin/1897966031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_three_browse-bin%3A1897966031&dc&qid=1681443073&rnid=1484941031&ref=sr_nr_p_n_feature_three_browse-bin_5&ds=v1%3AoLqB6SojZT9%2ByRS3h%2F3aptFi%2BJQ2hfYB%2BK1Wrl6Brz0",
+                "refinement_display_name": "Device Features"
+            },
+            {
+                "name": "Primary Camera",
+                "value": "n:1389432031||p_n_feature_three_browse-bin/1484942031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_three_browse-bin%3A1484942031&dc&qid=1681443073&rnid=1484941031&ref=sr_nr_p_n_feature_three_browse-bin_6&ds=v1%3A8hlIKp0sgQnBoyNXscdeS5yG5fzJlKooxsqT3D45z4o",
+                "refinement_display_name": "Device Features"
+            },
+            {
+                "name": "USB",
+                "value": "n:1389432031||p_n_feature_three_browse-bin/1484950031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_three_browse-bin%3A1484950031&dc&qid=1681443073&rnid=1484941031&ref=sr_nr_p_n_feature_three_browse-bin_7&ds=v1%3AHXz7rFe2Xe5mpzxD9CIhaPW04QMlp93lq8BuqGkXn1U",
+                "refinement_display_name": "Device Features"
+            }
+        ],
+        "mobile_phone_video_capture_resolution": [
+            {
+                "name": "1080p",
+                "value": "n:1389432031||p_n_feature_twenty-four_browse-bin/28430295031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_twenty-four_browse-bin%3A28430295031&dc&qid=1681443073&rnid=28430291031&ref=sr_nr_p_n_feature_twenty-four_browse-bin_1&ds=v1%3A5YXg4cFhqZKYDhwDscx0WtdGi7flvg07G9AWN7%2BTzWo",
+                "refinement_display_name": "Mobile Phone Video Capture Resolution"
+            }
+        ],
+        "cellular_phone_photo_sensor_resolution": [
+            {
+                "name": "Up to 9.9 MP",
+                "value": "n:1389432031||p_n_feature_five_browse-bin/42253779031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_five_browse-bin%3A42253779031&dc&qid=1681443073&rnid=42253749031&ref=sr_nr_p_n_feature_five_browse-bin_1&ds=v1%3AJKgk8d4nvvpp15L2JNiB%2F5XrrkWubSkrDrzld1ZJYRs",
+                "refinement_display_name": "Cellular Phone Photo Sensor Resolution"
+            },
+            {
+                "name": "13 to 15.9 MP",
+                "value": "n:1389432031||p_n_feature_five_browse-bin/42253776031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_five_browse-bin%3A42253776031&dc&qid=1681443073&rnid=42253749031&ref=sr_nr_p_n_feature_five_browse-bin_2&ds=v1%3Acaz2c8S5%2F0iiu4sd9XMHFOUR46Oc8v%2BO6yCHroHQRF0",
+                "refinement_display_name": "Cellular Phone Photo Sensor Resolution"
+            },
+            {
+                "name": "16 MP & Above",
+                "value": "n:1389432031||p_n_feature_five_browse-bin/42253778031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_five_browse-bin%3A42253778031&dc&qid=1681443073&rnid=42253749031&ref=sr_nr_p_n_feature_five_browse-bin_3&ds=v1%3AaCIdXVGi9J0Cs58AsHf9L9aDfOMDer1ljaPxbUI26qk",
+                "refinement_display_name": "Cellular Phone Photo Sensor Resolution"
+            }
+        ],
+        "mobile_phone_cellular_technology": [
+            {
+                "name": "4G",
+                "value": "n:1389432031||p_n_feature_twenty-five_browse-bin/33962379031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_twenty-five_browse-bin%3A33962379031&dc&qid=1681443073&rnid=33962288031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_1&ds=v1%3AzlA0QD%2FVB9WdIuCfgafHGWr9%2BDAqK0rytYuDJiEJYT0",
+                "refinement_display_name": "Mobile Phone Cellular Technology"
+            },
+            {
+                "name": "5G",
+                "value": "n:1389432031||p_n_feature_twenty-five_browse-bin/33962382031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_twenty-five_browse-bin%3A33962382031&dc&qid=1681443073&rnid=33962288031&ref=sr_nr_p_n_feature_twenty-five_browse-bin_2&ds=v1%3AhFNo5z0fJ9YW2xqAXXloA861M8QEdgfYXtjo%2FWk0qUY",
+                "refinement_display_name": "Mobile Phone Cellular Technology"
+            }
+        ],
+        "mobile_phone_installed_ram_size": [
+            {
+                "name": "4 to 5.9 GB",
+                "value": "n:1389432031||p_n_feature_thirty_browse-bin/44897296031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty_browse-bin%3A44897296031&dc&qid=1681443073&rnid=44897277031&ref=sr_nr_p_n_feature_thirty_browse-bin_1&ds=v1%3AgLqNLioo7xYGCPuh%2BGIy4M2HhGTc2bv7wFHzSHNRw7Q",
+                "refinement_display_name": "Mobile Phone Installed RAM Size"
+            },
+            {
+                "name": "8 to 9.9 GB",
+                "value": "n:1389432031||p_n_feature_thirty_browse-bin/44897288031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty_browse-bin%3A44897288031&dc&qid=1681443073&rnid=44897277031&ref=sr_nr_p_n_feature_thirty_browse-bin_2&ds=v1%3AQHYcApM39hWXDym5VsOxT8pfAWGUdJEN1AZ0sFW%2B3SM",
+                "refinement_display_name": "Mobile Phone Installed RAM Size"
+            },
+            {
+                "name": "10 GB & Above",
+                "value": "n:1389432031||p_n_feature_thirty_browse-bin/44897292031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1389432031%2Cp_n_feature_thirty_browse-bin%3A44897292031&dc&qid=1681443073&rnid=44897277031&ref=sr_nr_p_n_feature_thirty_browse-bin_3&ds=v1%3Ab1kNJ8yKoe3lDnLTWA1lczlAWAHrhwHBmwWx46OWoRM",
+                "refinement_display_name": "Mobile Phone Installed RAM Size"
+            }
+        ],
+        "new_arrivals": [
+            {
+                "name": "Last 90 days",
+                "value": "n:976419031||p_n_date_first_available_absolute/1318488031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A976419031%2Cp_n_date_first_available_absolute%3A1318488031&dc&qid=1681443073&rnid=1318486031&ref=sr_nr_p_n_date_first_available_absolute_1&ds=v1%3A8jj9IhMq9IQVK8j%2BQ5S19NScQJWbsgy0UAqElSAgOYk",
+                "refinement_display_name": "New Arrivals"
+            }
+        ],
+        "item_condition": [
+            {
+                "name": "New",
+                "value": "n:1805560031||p_n_condition-type/8609960031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1805560031%2Cp_n_condition-type%3A8609960031&dc&qid=1681443073&rnid=8609959031&ref=sr_nr_p_n_condition-type_1&ds=v1%3AkSjN6xS%2Fg2Xyyp5m8OJzPPmFe08gG6ZW4rFPkIpMC9g",
+                "refinement_display_name": "Item Condition"
+            },
+            {
+                "name": "Renewed",
+                "value": "n:1805560031||p_n_condition-type/13736826031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A1805560031%2Cp_n_condition-type%3A13736826031&dc&qid=1681443073&rnid=8609959031&ref=sr_nr_p_n_condition-type_2&ds=v1%3AjAmpf9B1jD6rAnGLCcXRfMmDbap8hUIIi9TK0L4BGe8",
+                "refinement_display_name": "Item Condition"
+            }
+        ],
+        "discount": [
+            {
+                "name": "10% Off or more",
+                "value": "n:976419031||p_n_pct-off-with-tax/2665399031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A2665399031&dc&qid=1681443073&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_1&ds=v1%3A54WLWm%2FxHLOb1uKcNs2FylIKTr7eEOEgTclEZiagsgA",
+                "refinement_display_name": "Discount"
+            },
+            {
+                "name": "25% Off or more",
+                "value": "n:976419031||p_n_pct-off-with-tax/2665400031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A2665400031&dc&qid=1681443073&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_2&ds=v1%3A0UHJlc4rsZqcEz2EA%2BJdtRweK2nTbghmP8xOQEyBAyw",
+                "refinement_display_name": "Discount"
+            },
+            {
+                "name": "35% Off or more",
+                "value": "n:976419031||p_n_pct-off-with-tax/2665402031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A2665402031&dc&qid=1681443073&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_3&ds=v1%3Axsu3Wz8spCjKHiQMhkd1oaC0awgGjzLO8DIbGMObaPk",
+                "refinement_display_name": "Discount"
+            },
+            {
+                "name": "50% Off or more",
+                "value": "n:976419031||p_n_pct-off-with-tax/2665401031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A2665401031&dc&qid=1681443073&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_4&ds=v1%3AlTze9mcfvTeGda2fNuh1BtaT9yr3VFzLphxMlJM3TpM",
+                "refinement_display_name": "Discount"
+            },
+            {
+                "name": "60% Off or more",
+                "value": "n:976419031||p_n_pct-off-with-tax/27060456031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A27060456031&dc&qid=1681443073&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_5&ds=v1%3A0SVY%2BAhtERDOFq2XubG23GXoWMc%2BK1EVDHFiiVGVF64",
+                "refinement_display_name": "Discount"
+            },
+            {
+                "name": "70% Off or more",
+                "value": "p_n_pct-off-with-tax/27060457031",
+                "refinement_display_name": "Discount"
+            }
+        ],
+        "availability": [
+            {
+                "name": "Include Out of Stock",
+                "value": "p_n_availability/1318485031",
+                "link": "https://www.amazon.in/s?k=one+plus+10r&rh=p_n_availability%3A1318485031&dc&qid=1681443073&rnid=1318483031&ref=sr_nr_p_n_availability_2&ds=v1%3ATNO4CqU9mS3h096XG6c%2BzHnr5DcpXlzj5weO9c4SXGw",
+                "refinement_display_name": "Availability"
+            }
+        ]
+    },
+    "ad_blocks": [
+        {
+            "campaign_id": "6160038180502",
+            "brand_logo": "https://m.media-amazon.com/images/S/gladiator-image-upload-prod/8/A21TJRUUN4KGV/15bd6b7fb5457d17121cd68cbff33a9b._CR0,0,2114,916_AC_SX130_SY60_QL70_.png",
+            "advertiser_id": "8954642650602",
+            "ad_id": "8954642650602",
+            "link": "https://aax-eu.amazon.in/x/c/RPgcdLL2Vzf-KrTmjvqDVIwAAAGHfdEtWwMAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICBbSPYp/https://www.amazon.in/stores/page/89989F40-1357-4C71-862F-414955D5A3FD/?_encoding=UTF8&store_ref=SB_A034194520KHUBSEX3QU7&pd_rd_plhdr=t&aaxitk=b14a166475c3391629fb894c6931d8c9&hsa_cr_id=8607875470702&lp_asins=B08RC2N483%2CB08V8KYMPC&lp_query=one%20plus%2010r&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_mcd_bkgd&pd_rd_w=S4USf&content-id=amzn1.sym.f2e74a72-0286-402b-ae7d-4395a990fd1f%3Aamzn1.sym.f2e74a72-0286-402b-ae7d-4395a990fd1f&pf_rd_p=f2e74a72-0286-402b-ae7d-4395a990fd1f&pf_rd_r=2GD81D311GJYH31VPTM9&pd_rd_wg=uSQnZ&pd_rd_r=669b4fee-c379-4d18-adf2-674ee36390fe",
+            "title": "iEDS Monopod & Tripod for GoPro & Insta360 Camera",
+            "store_link": "https://www.amazon.in/stores/page/89989F40-1357-4C71-862F-414955D5A3FD/?_encoding=UTF8&store_ref=SB_A034194520KHUBSEX3QU7&pd_rd_plhdr=t&aaxitk=b14a166475c3391629fb894c6931d8c9&hsa_cr_id=8607875470702&lp_asins=B08RC2N483%2CB08V8KYMPC&lp_query=one%20plus%2010r&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_mcd_cta&pd_rd_w=S4USf&content-id=amzn1.sym.f2e74a72-0286-402b-ae7d-4395a990fd1f%3Aamzn1.sym.f2e74a72-0286-402b-ae7d-4395a990fd1f&pf_rd_p=f2e74a72-0286-402b-ae7d-4395a990fd1f&pf_rd_r=2GD81D311GJYH31VPTM9&pd_rd_wg=uSQnZ&pd_rd_r=669b4fee-c379-4d18-adf2-674ee36390fe",
+            "store_id": "89989F40-1357-4C71-862F-414955D5A3FD",
+            "store_name": "iEDS",
+            "products": [
+                {
+                    "asin": "B08RC2N483",
+                    "link": "https://www.amazon.in/dp/B08RC2N483",
+                    "image": "https://m.media-amazon.com/images/I/51TnZarC3dL._AC_SR180,120_QL70_.jpg",
+                    "title": "iEDS All-in-1 Multi-Functional Bullet Time Bundle with Handle Accessories for Insta360 ONE X, X2, X3 & ONE R",
+                    "is_prime": true,
+                    "rating": 4,
+                    "ratings_total": 60
+                },
+                {
+                    "asin": "B08V8KYMPC",
+                    "link": "https://www.amazon.in/dp/B08V8KYMPC",
+                    "image": "https://m.media-amazon.com/images/I/61T9VrGEidL._AC_SR180,120_QL70_.jpg",
+                    "title": "iEDS Tripod Bullet time Rotation Handle for Insta360 One X, X2, One R Action Camera with 1/4\" Standard Screw",
+                    "is_prime": true,
+                    "rating": 4,
+                    "ratings_total": 40
+                }
+            ]
+        }
+    ]
+}
