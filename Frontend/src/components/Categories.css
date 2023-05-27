@@ -1,8 +1,30 @@
-.card-main{
-    margin: 2%;
-}
-
-.card-body{
-    padding: 5%;
-    margin: 2%;
-}
+.card-set {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .card {
+    width: 22%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .card img {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+  }
+  
+  .card h2 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .card p {
+    font-size: 1rem;
+    line-height: 1.2;
+  }
+  

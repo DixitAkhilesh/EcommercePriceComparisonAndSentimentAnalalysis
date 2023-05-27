@@ -1,22 +1,29 @@
-.nav-container{
-    /* overflow: hidden; */
+.navbar {
+    background-color: #02021b;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding: 5%;
+    margin-left: 0;
 }
 
-.right-side li, .left-side li{
-    display: inline-block;
+.navbar-links {
+display: flex;
+justify-content: flex-end;
+align-items: center;
 }
 
-.right-side li a, .left-side li a{
-    text-decoration: none ;
-    display: block;
-    width: 100%;
-    font-size: 20px;
-    margin-right: 20px;
-    padding-top: 10%;
+.navbar-links a {
+color: white;
+text-decoration: none;
+margin-left: 1rem;
 }
 
-.btn{
-    margin-right: 10px;
+.navbar-links a:hover {
+text-decoration: underline;
 }
+
+.navbar-links a:first-child {
+color: white;
+}
+  

@@ -1,14 +1,14 @@
 // import CarouselBody from "./Carousel";
-import CarouselBody from "./Carousel";
-import Categories from "./Categories";
+import Carousel from "./Carousel";
+import Cards from './Card';
 import AboutUs from "./AboutUs";
 
 function Body()
 {
     return (
         <div >
-            <CarouselBody/>
-            <Categories/>
+            <Carousel/>
+            <Cards/>
             <AboutUs/>
         </div>
     )

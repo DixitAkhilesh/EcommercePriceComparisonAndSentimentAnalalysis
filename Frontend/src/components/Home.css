@@ -1,0 +1,12 @@
+.home{
+    width: 100%;
+}
+
+.child{
+    display: inline-block;
+    border: 10px;
+    border: solid;
+    border-color: azure;
+    margin: 100px;
+    padding: 5%;
+}
